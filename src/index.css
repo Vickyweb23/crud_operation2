@@ -1,0 +1,89 @@
+
+
+.btn2:hover{
+    background-color: rgb(214, 47, 47);
+}
+.btn1:hover{
+    background-color: rgb(51, 216, 17);
+}
+.shuffle{
+  background-color: blue;
+}
+.shuffle:hover{
+
+  background-color: red;
+}
+.viu{
+  display: flex;
+}
+.flex-content{
+  display: flex;
+}
+.crud-div{
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  left: 22rem;
+  top:5rem;
+}
+.table{
+  max-width:90%;
+  justify-content: center !important;
+  align-items: center;
+  position: relative;
+  left: 2rem;
+  border: solid 2px black;
+}
+table, th, td {
+  border: 1px solid black;
+}
+
+.quality{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 1.5rem;
+}
+.add{
+  border: none;
+  width: 8rem;
+  background-color: rgb(233, 71, 184);
+  padding: 5px;
+  border-radius: 10px;
+  margin-left:1rem ;
+}
+
+.add:hover{
+  background-color: aqua;
+
+}
+.delete{
+  border: none;
+  width: 8rem;
+  background-color: red;
+  padding: 5px;
+  border-radius: 10px;
+  margin-left:rem ;
+  margin: 2rem;
+}
+.ul{
+  margin: left;
+}
+.marquee{
+color: white;
+}
+
+.edit{
+
+  border: none;
+  width: 8rem;
+  background-color: rgb(21, 255, 0);
+  padding: 5px;
+  border-radius: 10px;
+}
+body{
+  background-color: rgb(99, 149, 206) !important;
+}
+li{
+  list-style: none;
+}
